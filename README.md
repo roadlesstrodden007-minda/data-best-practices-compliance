@@ -61,3 +61,26 @@ Reference during system design
 Guide for implementing privacy features
 Checklist for security requirements
 
+## How to Cite This Guide
+
+### APA Style
+```
+Roadlesstrodden. (2025). Data best practices & compliance regulations guide: 
+Comprehensive overview of data protection regulations in Canada, USA, and Europe.
+```
+
+### MLA Style
+```
+Roadlesstrodden. "Data Best Practices & Compliance Regulations Guide: 
+Comprehensive Overview of Data Protection Regulations in Canada, USA, and Europe." 
+November 2025.
+```
+
+### Chicago Style
+```
+Roadlesstrodden. "Data Best Practices & Compliance Regulations Guide: 
+Comprehensive Overview of Data Protection Regulations in Canada, USA, and Europe." 
+November 2025.
+```
+
+---
