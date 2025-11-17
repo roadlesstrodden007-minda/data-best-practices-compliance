@@ -1,4 +1,4 @@
-#Data Best Practices and Compliance Guide
+# Data Best Practices and Compliance Guide
 🌟 Overview
 This project provides an extensive, single-page HTML guide that helps organizations and individuals understand and comply with major data protection regulations across three key jurisdictions: Canada, United States, and Europe. The guide features a modern, responsive design with neon branding and comprehensive coverage of compliance requirements.
 
