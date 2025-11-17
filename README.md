@@ -16,48 +16,46 @@ Key Features
 View Live Demo (https://roadlesstrodden007-minda.github.io/data-best-practices-compliance/)
 
 📖 Usage
-For Organizations
 
-Compliance Assessment
+## For Organizations
+
+## Compliance Assessment
 
 Review regulations applicable to your jurisdiction
 Use the comparison table to understand requirements
 Follow the compliance checklist
 
-
-Training Material
+## Training Material
 
 Share with team members for privacy awareness
 Reference during onboarding processes
 Use for regulatory training sessions
 
 
-Documentation Reference
+## Documentation Reference
 
 Quick lookup for compliance requirements
 Reference for policy development
 Guide for vendor assessments
 
-For Individuals
+## For Individuals
 
-Learning Resource
+## Learning Resource
 
 Understand your privacy rights
 Learn about data protection principles
 Explore different regulatory frameworks
 
-
-Career Development
+## Career Development
 
 Study material for privacy certifications
 Reference for cybersecurity professionals
 Resource for legal and compliance careers
 
 
+## For Developers
 
-For Developers
-
-Privacy by Design
+## Privacy by Design
 
 Reference during system design
 Guide for implementing privacy features
